@@ -1,0 +1,1 @@
+import{_ as a,r as n,o,c as r}from"./app-CgYTy_-w.js";const c={name:"reference-faith"};function t(s,p,_,f,i,d){const e=n("page-crud");return o(),r(e,{"page-name":"reference-faith","page-key":"faith"})}const u=a(c,[["render",t]]);export{u as default};

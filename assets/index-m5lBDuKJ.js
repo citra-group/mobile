@@ -1,0 +1,1 @@
+import{_ as o,r as a,o as t,c as n,y as r}from"./app-CgYTy_-w.js";const s={name:"reservation-dashboard"};function c(p,_,d,i,m,f){const e=a("page-home");return t(),n(e,{"page-name":"reservation-dashboard","page-title":"Untitled"},{default:r(()=>[]),_:1})}const h=o(s,[["render",c]]);export{h as default};

@@ -1,0 +1,1 @@
+import{_ as o,r as s,o as a,c}from"./app-CgYTy_-w.js";const n={name:"account-base"};function t(r,_,p,u,m,f){const e=s("user-base");return a(),c(e,{"module-name":"account"})}const l=o(n,[["render",t]]);export{l as default};

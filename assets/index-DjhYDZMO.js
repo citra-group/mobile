@@ -1,0 +1,1 @@
+import{_ as o,r as a,o as n,c as t}from"./app-CgYTy_-w.js";const c={name:"coperative-paymentmode"};function p(r,s,m,_,d,i){const e=a("page-crud");return n(),t(e,{"page-name":"coperative-paymentmode","page-key":"paymentmode"})}const u=o(c,[["render",p]]);export{u as default};

@@ -1,0 +1,1 @@
+import{_ as o,r as n,o as a,c}from"./app-CgYTy_-w.js";const p={name:"human-employee"};function r(t,s,m,_,u,d){const e=n("page-crud");return a(),c(e,{"page-name":"human-employee","page-key":"employee"})}const f=o(p,[["render",r]]);export{f as default};
