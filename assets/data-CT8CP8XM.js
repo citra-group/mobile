@@ -1,1 +1,0 @@
-import{_ as t,r as a,o as r,c as n,y as e}from"./app-CgYTy_-w.js";const s={name:"system-operator-crete"};function c(_,f,p,m,d,i){const o=a("form-data");return r(),n(o,null,{feed:e(()=>[]),info:e(()=>[]),filter:e(()=>[]),_:1})}const u=t(s,[["render",c]]);export{u as default};

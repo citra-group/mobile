@@ -1,1 +1,0 @@
-import{_ as e,r as a,o as t,c as n}from"./app-CgYTy_-w.js";const r={name:"reference-submission-data"};function s(c,_,p,f,m,d){const o=a("form-data");return t(),n(o)}const u=e(r,[["render",s]]);export{u as default};

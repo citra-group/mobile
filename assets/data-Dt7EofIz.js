@@ -1,1 +1,0 @@
-import{_ as e,r as t,o as a,c as n}from"./app-CgYTy_-w.js";const r={name:"reference-notification-data"};function c(s,_,f,p,d,m){const o=t("form-data");return a(),n(o)}const l=e(r,[["render",c]]);export{l as default};
